@@ -1,0 +1,28 @@
+.log { 
+	overflow-y: scroll;
+	margin-bottom: 12px;
+	width:  50em;
+	height: 10em;
+	background-color: pink;
+}
+.information { 
+	color: white;
+	margin-bottom: 12px;
+	width:  10em;
+	height: 3.5em;
+	background-color: blue;
+}
+.stats {
+	content: url("../images/statWindow.png");
+	width:  28em;
+	height: 21em;
+}
+.heroButtonsFrame {
+	background-image: url("../images/statWindow.png");
+    background-size: cover;
+	width:  30em;
+	height: 1.5em;
+	padding-left: 1.5em;
+	padding-right: 1.5em;
+	padding-top: 1.5em;
+}

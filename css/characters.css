@@ -1,0 +1,105 @@
+img.chief{
+	content: url("../images/chief.png");
+	width: 80px;
+	height: 122px;
+}
+img.chief.asleep{
+	content: url("../images/chiefAsleep.png");
+	width: 80px;
+	height: 122px;
+}
+img.chief.confused{
+	content: url("../images/chiefConfused.png");
+	width: 80px;
+	height: 122px;
+}
+img.chief.asleep.confused{
+	content: url("../images/chiefAsleepConfused.png");
+	width: 80px;
+	height: 122px;
+}
+img.goblin{
+	content: url("../images/goblin.png");
+	width: 42px;
+	height: 61px;
+}
+img.goblin.asleep{
+	content: url("../images/goblinAsleep.png");
+	width: 42px;
+	height: 61px;
+}
+img.goblin.confused{
+	content: url("../images/goblinConfused.png");
+	width: 42px;
+	height: 61px;
+}
+img.goblin.asleep.confused{
+	content: url("../images/goblinAsleepConfused.png");
+	width: 42px;
+	height: 61px;
+}
+img.cleric{
+	content: url("../images/cleric.png");
+	width: 42px;
+	height: 61px;
+}
+img.cleric.asleep{
+	content: url("../images/clericAsleep.png");
+	width: 42px;
+	height: 61px;
+}
+img.cleric.confused{
+	content: url("../images/clericConfused.png");
+	width: 42px;
+	height: 61px;
+}
+img.cleric.asleep.confused{
+	content: url("../images/clericAsleepConfused.png");
+	width: 42px;
+	height: 61px;
+}
+img.fighter{
+	content: url("../images/fighter.png");
+	width: 42px;
+	height: 61px;
+}
+img.fighter.asleep{
+	content: url("../images/fighterAsleep.png");
+	width: 42px;
+	height: 61px;
+}
+img.fighter.confused{
+	content: url("../images/fighterConfused.png");
+	width: 42px;
+	height: 61px;
+}
+img.fighter.asleep.confused{
+	content: url("../images/fighterAsleepConfused.png");
+	width: 42px;
+	height: 61px;
+}
+img.mage{
+	content: url("../images/mage.png");
+	width: 42px;
+	height: 61px;
+}
+img.mage.asleep{
+	content: url("../images/mageAsleep.png");
+	width: 42px;
+	height: 61px;
+}
+img.mage.confused{
+	content: url("../images/mageConfused.png");
+	width: 42px;
+	height: 61px;
+}
+img.mage.asleep.confused{
+	content: url("../images/mageAsleepConfused.png");
+	width: 42px;
+	height: 61px;
+}
+img.dead{
+	content: url("../images/dead.png");
+	width: 42px;
+	height: 61px;
+}

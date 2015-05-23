@@ -1,0 +1,15 @@
+Goblin raid.
+
+The object of this game is to see how many goblins you can kill before your party or the city dies.
+
+Simple game. The game will generate 1-5 goblins and then they will have random stats assigned to them. sometimes you will be faced with the goblin cheif. Goblin cheif buffs all of his goblins.
+
+Goblins will attack a random character. If the character is downed then, the goblin attacks the city. Every character will have an HP, Strength, Speed, defense and a set of moves.
+
+Game will roll and 15 and determine if goblin chief. game will roll a d5 and determine how many goblins.
+
+Game rolls stats for goblins, and Hrefs a pic of a goblin for each goblin generated. If goblin cheif, then game rolls stats for cheif creates image for cheif and modifies the goblin stats.
+
+When cheif dies, re-modify goblin stats.
+
+
