@@ -1,7 +1,7 @@
 .log { 
 	overflow-y: scroll;
 	margin-bottom: 12px;
-	width:  50em;
+	width:  20em;
 	height: 10em;
 	background-color: pink;
 }
@@ -22,7 +22,7 @@
     background-size: cover;
 	width:  30em;
 	height: 1.5em;
-	padding-left: 1.5em;
-	padding-right: 1.5em;
+	padding-left: 1.6em;
+	padding-right: 1.6em;
 	padding-top: 1.5em;
 }
