@@ -1,28 +1,43 @@
 .log { 
 	overflow-y: scroll;
 	margin-bottom: 12px;
-	width:  20em;
-	height: 10em;
+	width: 230px;
+	height: 200px;
 	background-color: pink;
+	float: right;
 }
-.information { 
-	color: white;
-	margin-bottom: 12px;
-	width:  10em;
-	height: 3.5em;
-	background-color: blue;
+.information {
+  color: white;
+  width: 120px;
+  height: 80px;
+  background-color: blue;
+  float: left;
 }
 .stats {
-	content: url("../images/statWindow.png");
-	width:  28em;
-	height: 21em;
+	position: relative;
+	background: url("../images/statWindow.png") no-repeat;
+	width: 230px;
+	height: 178px;
+	float: left;
+	background-size: contain;
 }
 .heroButtonsFrame {
 	background-image: url("../images/statWindow.png");
-    background-size: cover;
-	width:  30em;
-	height: 1.5em;
-	padding-left: 1.6em;
-	padding-right: 1.6em;
-	padding-top: 1.5em;
+	background-size: cover;
+	width: 420px;
+	height: 25px;
+	margin: auto;
+	border: 2px solid black;
+	padding-left: 23px;
+	padding-right: 23px;
+	padding-top: 22px;
+}
+.characterField {
+	background-color: pink;
+	margin: auto;
+	width: 420;
+	height: 122px
+}
+div img.character{
+	display: inline-block;
 }
